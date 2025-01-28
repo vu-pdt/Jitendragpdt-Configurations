@@ -4035,4 +4035,4 @@ miabusinessapp:
         {"title":"JitendraGPDT","version":"Unknown","services":[],"securityInfo":{"/api/openapi/*":{},"/api/openapi":{},"/api/openapi/raw/*":{},"/api/openapi/raw":{},"/documentations/api-portal/*":{},"/documentations/api-portal":{}},"baseSwagger":{"swagger":"2.0","consumes":["application/json"],"produces":["application/json"],"securityDefinitions":{"APISecretHeader":{"type":"apiKey","in":"header","name":"secret"}}},"description":""}
   managedServiceAccount:
   - name: jitendr431e30a_d_svc
-    rotatePasswordAfter: 2025-01-28T21:58:44Z
+    rotatePasswordAfter: 2025-01-28T22:13:05Z

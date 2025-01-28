@@ -902,7 +902,8 @@
             "description": "Format of logs for the microservice"
           }
         ],
-        "terminationGracePeriodSeconds": 30
+        "terminationGracePeriodSeconds": 30,
+        "swaggerPath": "/documentation/json/v1/swagger.json"
       }
     },
     "configMaps": {
